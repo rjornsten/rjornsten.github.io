@@ -1,9 +1,7 @@
----
-title: "New VR project: Investigating deep learning through the lens of adaptive kernels"
-#excerpt: "Short description of portfolio item number 1<br/><img src='/images/FigVRgit.png'>"
-collection: portfolio
----
 
+
+New VR project: Investigating deep learning through the lens of adaptive kernels
+------
 There is no denying that deep neural networks have had a profound impact on research across statistics, data
 science and machine learning, as well as significantly altered the analytical landscape in many application areas,
 including bioinformatics and systems biology. While previous research efforts were focused on the then
