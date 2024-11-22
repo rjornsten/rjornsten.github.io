@@ -8,7 +8,6 @@ performance through connections to classical statistical methodologies."
 collection: portfolio
 ---
 
-**New VR project: Investigating deep learning through the lens of adaptive kernels**
 
 There is no denying that deep neural networks have had a profound impact on research across statistics, data
 science and machine learning, as well as significantly altered the analytical landscape in many application areas,
