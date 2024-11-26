@@ -22,7 +22,7 @@ Academic Appointments
   * Department of Mathematical Sciences  
   * University of Gothenburg/Chalmers University of Technology
 
-* 2009 - 2026: Associate Professor
+* 2009 - 2016: Associate Professor
   * Department of Mathematical Sciences  
   * University of Gothenburg/Chalmers University of Technology
 
@@ -49,8 +49,7 @@ Service and leadership
   
 Current grants and awards
 ======
-* Vetenskapsrådet (Swedish Research Council) Project Research Grant, ”Investigating deep learn-
-ing through the lense of adaptive kernels”, 2025-2029. VR 2024-05762 4MKr. (PI)
+* Vetenskapsrådet (Swedish Research Council) Project Research Grant, ”Investigating deep learning through the lense of adaptive kernels”, 2025-2029. VR 2024-05762 4MKr. (PI)
 * SSF MRC grant: ”CNSx3: Person-centered brain-on-chip models for data-accelerated therapeutic
 research” 60MKr. (1 PhD student to Jörnsten + 500tKr).
 * Swedish Energy Agency. ”FEAT: Fordonshantering för effektiva och hållbara elekriska mikromo-
@@ -59,7 +58,7 @@ research)
 * Knut & Alice Wallenberg foundation. ”The Routes of Glioblastoma and their Patient-Specific Vul-
 nerabilities”. 2023-2028. co-PI. PI Sven Nelander. (38MKr, 3.9MKr for Jörnsten).
 * Wallenberg Foundation (WASP) PhD grant. ”Evaluated mutual information bounds for learning and
-metalearning”. 2023-2028. co-PI. (PI Giuseppe Durisi) (1 fully funded PhD student, 5% research
+meta-learning”. 2023-2028. co-PI. (PI Giuseppe Durisi) (1 fully funded PhD student, 5% research
 for Jörnsten)
 * WASP-DDLS postdoc grant. ”Massively parallel in vivo gene editing and AI modeling to decipher
 brain tumor invasion”. 2022-2024. WASP PI (DDLS PI Sven Nelander).
@@ -77,17 +76,16 @@ Johan Jonasson)
 patient-derived cells to decipher tumor expansion and evaluate new treatments.”. (2017-2021).
 co-PI (PI Sven Nelander). (12.5% research for Jörnsten)
 * Swedish Foundation for Strategic Research: Big Data. ”Integrative precision medicine: local data,
-global context”. (2017-2021). co-PI (PI Sven Nelander). (1 fully funded PhD student, 25% re-
-search for Jörnsten)
+global context”. (2017-2021). co-PI (PI Sven Nelander). (1 fully funded PhD student, 25% research for Jörnsten)
 * Vetenskapsrådet (Swedish Research Council) Project Research Grant, ”Network modeling for
-large-scale human cancer studies: data integration, validation and multiresolution networks.” (2014-2017) PI. (5.06MKr)
+large-scale human cancer studies: data integration, validation, and multiresolution networks.” (2014-2017) PI. (5.06MKr)
 
 Publications
 ======
-Number of peer-reviewed publications (excluding manuscripts, submission and revised submissions):
+Number of peer-reviewed publications (excluding manuscripts, submissions, and revised submissions):
 57: 45 journal papers and 12 peer-reviewed book chapters or peer-reviewed conference papers.
 
-H-index: 26 i10-index: 37 
+H-index: 26, i10-index: 37 
 
 Number of citations: 2722 
 
@@ -98,7 +96,7 @@ Number of citations: 2722
 Supervision
 ======
 ***Current supervision:***
-* PhD students: Vincent Szolnoky(funded by Centiro Solutions, WASP affiliated).
+* PhD students: Vincent Szolnoky (funded by Centiro Solutions, WASP affiliated).
 * Postdocs: Adam Malik (funded by WASP-DDLS), Ziming Wang (funded by Chalmers AI research center and the Swedish Research Council)
 * Co-supervision: Madeline Skeppsas (UU)
   
