@@ -24,7 +24,7 @@ main:
   #  url: /year-archive/
     
   - title: "Vacancies"
-  #  url: /test/
+    url: /test/
     
  # - title: "Guide"
  #   url: /markdown/
