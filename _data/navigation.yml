@@ -17,14 +17,14 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "News"
+  - title: "Vacancies"
     url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "Vacancies"
-    url: /vacancies/
+  #- title: "Vacancies"
+  #  url: /vacancies/
     
  # - title: "Guide"
  #   url: /markdown/
