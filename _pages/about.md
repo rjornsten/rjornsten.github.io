@@ -41,7 +41,7 @@ Electrical Engineering, we work on research problems merging control theory and 
 Academic Service
 ------
 
-Since 2018, I am the [Vice-Dean for Research and Research Infrastructures](https://science.gu.se/english/about/organisation/steering_group/?languageId=100001&disableRedirect=true&returnUrl=http%3A%2F%2Fscience.gu.se%2Ffakulteten%2FOrganisation%2Fledningsgruppen%2F) at the [Faculty of Science](https://science.gu.se/), University of Gothenburg.
+Since 2018, I am the [Vice-Dean for Research and Research Infrastructures](https://science.gu.se/english/about/organisation/steering_group/?languageId=100001&disableRedirect=true&returnUrl=http%3A%2F%2Fscience.gu.se%2Ffakulteten%2FOrganisation%2Fledningsgruppen%2F) at the [Faculty of Science and Technology](https://science.gu.se/), University of Gothenburg.
 I chair the Faculty Board's [advisory committee](https://medarbetarportalen.gu.se/internt-science/organisation-styrning/styrelse-och-beredningsgrupper/forskningsberedningen/?languageId=100001&skipSSOCheck=true&referer=https%3A%2F%2Fwww.google.com%2F) advisory committee, where we discuss interdepartmental activities, review sabbatical applications and
 Faculty prizes and awards. We also organize faculty events. 
 
